@@ -9,3 +9,5 @@ Here's my examples connected with popular problems concerning C programming.
 3. <b>pointers-array.c</b> - example showing how pointers in C works
 
 4. <b>pointers-matrix.c</b> - two-dimensional array in C as a pointer to pointer (example with matrix)
+
+5. <b>lexer_and_parser.zip</b> - lexer and parser for arthmetic operations on rational numbers coded with flex and yacc
